@@ -1,5 +1,5 @@
 function App() {
-  const variable = '';
+  // const variable = '';
 
   return (
     <div className="">
